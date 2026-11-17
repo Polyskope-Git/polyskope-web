@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polyskope.fr/sitemap.xml
